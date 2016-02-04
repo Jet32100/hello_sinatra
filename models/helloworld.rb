@@ -1,0 +1,1 @@
+@greetings = ["hey", "hi", "hola"]
