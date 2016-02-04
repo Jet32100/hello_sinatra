@@ -8,6 +8,8 @@
 	#write your first get route
 
 	### IN TERMINAL, ENTER: ruby name_of_file.rb ####
+			#This command will start a local server so you can view your app in your browser using a local host
+			#go to http://localhost:4567
 
 
 ####################################################
